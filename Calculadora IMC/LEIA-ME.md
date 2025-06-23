@@ -5,6 +5,8 @@ Este projeto é uma *Calculadora de IMC* (Índice de Massa Corporal) simples, de
 
 ## Índice
 
+
+
 - [Objetivo](#objetivo)
 - [Funcionalidades](#funcionalidades)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
